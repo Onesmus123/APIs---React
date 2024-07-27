@@ -15,7 +15,7 @@ A simple React application that displays a list of users fetched from the [JSONP
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/user-list-app.git
+   git clone https://github.com/Onesmus123/APIs---React.git.git
    cd user-list-app
  
 2. **Install dependencies:**
